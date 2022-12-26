@@ -1,7 +1,8 @@
 #include <iostream>
 // use a structure called as Time to accept and print time
 // example in cpp
-
+//by default in struct All Data Member and Member Functions are Public
+//by default in class All data member and member functions are Privet
 struct Time
 {
 private:
