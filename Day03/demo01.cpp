@@ -1,6 +1,5 @@
 #include <iostream>
 using namespace std;
-//class members are by default Privet
 class Time
 {
 private:
