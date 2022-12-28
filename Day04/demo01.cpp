@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+//BY defalut class members are privet
 class Point
 {
 private:
