@@ -1,6 +1,5 @@
 #include <iostream>
 using namespace std;
-// Expection handling => try ,catch , thorw
 class Arithmetic
 {
 private:
