@@ -6,7 +6,7 @@ class Base
 private:
     int num1;
 
-protected://protected only access in derived classs obj. Other wise they behave like privet
+protected:
     int num2;
 
 public:
