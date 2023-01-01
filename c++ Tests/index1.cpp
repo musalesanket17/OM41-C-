@@ -1,4 +1,4 @@
-Result: Pass
+// Result: Pass
 Marks: 27/30
 Percentage: 93.33 %
 Questions: 10
