@@ -1,10 +1,3 @@
-Result: Pass
-Marks: 27/30
-Percentage: 93.33 %
-Questions: 10
-Correct Answers: 9
-Attempted: 10
-
 
 
 1. What is  output of this program?                                                                                                                                  
