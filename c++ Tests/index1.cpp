@@ -1,3 +1,9 @@
+Result: Pass
+Marks: 27/30
+Percentage: 93.33 %
+Questions: 10
+Correct Answers: 9
+Attempted: 10
 
 
 1. What is  output of this program?                                                                                                                                  
@@ -79,13 +85,13 @@ OPTION :->
      5. None of the above
 
 
-7. Which of the following permits function overloading in c++?
-   OPTION :->
-        1. Type of arguments
-        2. Number of arguments
-        3. Type,Number and Sequence of arguments
-        4. Return type of function
-        5. Both C and D
+
+
+
+
+
+
+
 
 8. What is  output of this program?      
   #include <iostream>
