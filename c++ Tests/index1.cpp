@@ -131,13 +131,10 @@ OPTION :->
            2. All 1, 2 and 3 are correct
            3. Both 2 and 3 are correct
            4. Both 1 and 2 are correct
-10. Which of the following statements is/are correct in context of class?
 
- 1.Class is a collection of data member and member functions.
- 2.Class is a physical entity.
 
-   OPTION :->
-      1. Only 2 is correct
-      2. Only 1 is correct
-      3. Both 1 and 2 are correct
-      4. None of the above
+
+
+
+
+
