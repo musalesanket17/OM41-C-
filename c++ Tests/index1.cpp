@@ -120,16 +120,17 @@ OPTION :->
          4. None of the above
 
 
+9. Which of the following statements are correct?
+  1.A member function, which is used to modify the state of the object is called mutator function.
+  2.Mutator function also known as modifier function or setter function
+  3.Member function, which allows us to perform operations on Console/file/database is
+    called Inspector function.
 
-
-
-
-
-
-
-
-
-
+    OPTION :->
+           1. Only 1 is correct
+           2. All 1, 2 and 3 are correct
+           3. Both 2 and 3 are correct
+           4. Both 1 and 2 are correct
 10. Which of the following statements is/are correct in context of class?
 
  1.Class is a collection of data member and member functions.
