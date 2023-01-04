@@ -102,7 +102,7 @@ int main()
 9. Syntax for making member function as Constant is __________.
 
       1. void display()
-  T->  2. void display() const
+  T-> 2. void display() const
       3. const void display()
       4. void const display()
 
