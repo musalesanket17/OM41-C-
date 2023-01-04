@@ -1,9 +1,4 @@
-Result: Fail
-Marks: 15/30
-Percentage: 33.33 %
-Questions: 10
-Correct Answers: 5
-Attempted: 10
+
 
 
 1. constant object can access  __________ of the class.
