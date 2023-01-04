@@ -1,13 +1,9 @@
 
 
 
-1. constant object can access  __________ of the class.
 
 
- T->  1. only constant member function
-      2. only non constant member function
-      3. both constant member function  and non constant member function
-      4. none of the above
+
 
 
 2. When will we use the function overloading?
