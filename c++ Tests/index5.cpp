@@ -1,9 +1,9 @@
-
-
-
-
-
-
+Result: Pass
+Marks: 30/30
+Percentage: 100.00 %
+Questions: 10
+Correct Answers: 10
+Attempted: 10
 
 
 1. _______________ feature of OOP indicates code reusability?
