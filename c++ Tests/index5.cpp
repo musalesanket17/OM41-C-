@@ -9,8 +9,8 @@ Attempted: 10
 1. _______________ feature of OOP indicates code reusability?
 
      1. Encapsulation
-     T-> 2. Abstraction
-  3. Inheritance
+     2. Abstraction
+  T-> 3. Inheritance
      4. Polymorphism
 
 2. Object oriented programming is a kind of programming in which we try to solve real world problems using?
