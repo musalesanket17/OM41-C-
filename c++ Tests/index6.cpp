@@ -25,10 +25,12 @@ Attempted: 10
       3. strong typing
    T->4. Both Static polymorphism / binding and Early binding
 
-?
+3. Which of the following is the correct syntax for Pure Virtual Function?
 
-
-
+       1. virtual void show()==0;
+       2. void virtual show()==0;
+       3. void virtual show()=0;
+    T-> 4. virtual void show()=0;
 
 
 
@@ -91,6 +93,7 @@ int main()
     Derived dObject;
     Base *bPntr = &dObject;  //line No-22
     bPntr -> baseFunc();
+    //Derived *ptr = (Derived*)bPntr ; Downcasting
     return 0; 
 }
 
