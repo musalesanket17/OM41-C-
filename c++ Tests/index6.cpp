@@ -1,7 +1,9 @@
-
-
-
-
+Result: Pass
+Marks: 27/30
+Percentage: 86.67 %
+Questions: 10
+Correct Answers: 9
+Attempted: 10
 
 
 
@@ -23,12 +25,10 @@
       3. strong typing
    T->4. Both Static polymorphism / binding and Early binding
 
-3. Which of the following is the correct syntax for Pure Virtual Function?
+?
 
-       1. virtual void show()==0;
-       2. void virtual show()==0;
-       3. void virtual show()=0;
-    T-> 4. virtual void show()=0;
+
+
 
 
 
