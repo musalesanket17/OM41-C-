@@ -93,7 +93,6 @@ int main()
     Derived dObject;
     Base *bPntr = &dObject;  //line No-22
     bPntr -> baseFunc();
-     Derived *ptr = (Derived*)bPntr ; //Downcasting
     return 0; 
 }
 
