@@ -136,11 +136,8 @@ int main()
         4. Aggregation
 
 
-10. Which of the following keywords are used to handle the exceptions?
 
 
-       1. try
-       2. catch
-       3. throw
-  T->  4. All of the above
+
+
 
