@@ -128,10 +128,12 @@ int main()
         4. Downcasting
 
 
+9. IS-A relationship in C++ is
 
-
-
-
+    T->1. Inheritance
+        2. Encapsulation
+        3. Composition
+        4. Aggregation
 
 
 10. Which of the following keywords are used to handle the exceptions?
