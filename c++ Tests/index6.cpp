@@ -1,8 +1,9 @@
-
-
-
-
-
+Result: Pass
+Marks: 27/30
+Percentage: 86.67 %
+Questions: 10
+Correct Answers: 9
+Attempted: 10
 
 
 
